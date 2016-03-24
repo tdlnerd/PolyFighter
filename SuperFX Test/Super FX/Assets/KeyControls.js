@@ -5,23 +5,17 @@ function Start () {
 }
 
 function Update () {
-	if (Input.GetKey("left")) {
+	if (Input.GetKey("left") && transform.localPosition.x > -5) {
 		transform.Translate(Vector2.left * (Time.deltaTime * rotatespeed));
 		}
-	if (Input.GetKey("right")) {
+	if (Input.GetKey("right") && transform.localPosition.x < 5) {
 	transform.Translate(Vector2.right * (Time.deltaTime * rotatespeed));
 	}
-	if (Input.GetKey("up")) {
+	if (Input.GetKey("up") && transform.localPosition.y < 5) {
 	transform.Translate(Vector2.up * (Time.deltaTime * rotatespeed));
 	}
-	if (Input.GetKey("down")) {
+	if (Input.GetKey("down") && transform.localPosition.y > -5) {
 	transform.Translate(Vector2.down * (Time.deltaTime * rotatespeed));
-	}
-	if (Input.GetKey("x") && movespeed < 60) {
-	movespeed += 5; 
-	}
-	if (Input.GetKey("z") && movespeed > 10) {
-	movespeed -= 5; 
 	}
 
 }

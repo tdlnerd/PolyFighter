@@ -1,12 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Framerate.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KeyControls.js">
     <Files>
-      <File FileName="Assets/Spark.js" Line="3" Column="17" />
-      <File FileName="Assets/KeyControls.js" Line="2" Column="22" />
-      <File FileName="Assets/Billboard.shader" Line="45" Column="2" />
-      <File FileName="Assets/Fire.js" Line="9" Column="2" />
-      <File FileName="Assets/Framerate.js" Line="4" Column="39" />
+      <File FileName="Assets/KeyControls.js" Line="18" Column="34" />
+      <File FileName="Assets/Platform.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

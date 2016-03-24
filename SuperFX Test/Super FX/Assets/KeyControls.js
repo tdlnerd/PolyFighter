@@ -17,5 +17,7 @@ function Update () {
 	if (Input.GetKey("down") && transform.localPosition.y > -5) {
 	transform.Translate(Vector2.down * (Time.deltaTime * rotatespeed));
 	}
+	if (transform.localPosition.x > 5 || transform.localPosition.x < -5 || transform.localPosition.y > 5 || transform.localPosition.y < -5 || transform.localPosition.z > 1 || transform.localPosition.z < -1) {
+	}
 
 }

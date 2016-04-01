@@ -56,6 +56,7 @@
      <Compile Include="Assets\Particle\Legacy Particles\TimedObjectDestructor.js" />
      <Compile Include="Assets\Platform.js" />
      <Compile Include="Assets\Spark.js" />
+     <Compile Include="Assets\WF.js" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />

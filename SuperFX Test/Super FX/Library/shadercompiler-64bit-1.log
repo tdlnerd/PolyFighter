@@ -1,3 +1,43 @@
 Base path: /Applications/Unity/Unity.app/Contents
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1901621248
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-2047578112
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=1940 outsize=327 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1912 outsize=2063 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1912 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=2023 outsize=318 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2002 outsize=4029 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2002 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=2095 outsize=256 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2136 outsize=4029 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2136 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1822 outsize=251 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1868 outsize=2006 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1868 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1926 outsize=337 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1888 outsize=2006 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1888 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=1838 outsize=241 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1894 outsize=2063 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1894 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1275 outsize=2533 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1275 outsize=6 kw=DIRECTIONAL SHADOWS_OFF ok=1

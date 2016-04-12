@@ -32,6 +32,7 @@ namespace UnityStandardAssets.Vehicles.Aeroplane
 
             // pick a random perlin starting point for lateral wandering
             m_RandomPerlin = Random.Range(0f, 100f);
+			SetTarget(GameObject.Find("Ship").transform);
         }
 
 

@@ -1,7 +1,7 @@
 ﻿var Meter : UI.Slider;
 var Normal : Color;
 function OnCollisionEnter (hit : Collision) {
-	Meter.value -= (hit.transform.localScale.z / 100);
+	Meter.value -= (hit.transform.localScale.z / 10);
 	GetComponent.<MeshRenderer>().material.color = Color.red;
 }
 

@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Destroy.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KeyControls.js">
     <Files>
-      <File FileName="Assets/Spark.js" Line="3" Column="60" />
+      <File FileName="Assets/WeakSpot.js" Line="17" Column="1" />
+      <File FileName="Assets/Spark.js" Line="1" Column="1" />
       <File FileName="Assets/Look.js" Line="1" Column="1" />
       <File FileName="Assets/Sat.js" Line="1" Column="1" />
       <File FileName="Assets/WF.js" Line="1" Column="1" />
@@ -13,9 +14,8 @@
       <File FileName="Assets/FireSpark.js" Line="1" Column="1" />
       <File FileName="Assets/Display.js" Line="1" Column="1" />
       <File FileName="Assets/Fire.js" Line="1" Column="1" />
-      <File FileName="Assets/WeakSpot.js" Line="4" Column="1" />
-      <File FileName="Assets/Damage.js" Line="1" Column="1" />
-      <File FileName="Assets/Destroy.js" Line="9" Column="2" />
+      <File FileName="Assets/Destroy.js" Line="1" Column="1" />
+      <File FileName="Assets/Turn.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

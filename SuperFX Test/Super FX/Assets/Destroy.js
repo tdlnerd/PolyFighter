@@ -4,7 +4,7 @@ function Start () {
 }
 
 function Update () {
-if (Bar.value < 1) {
+if (Bar.value <= 0) {
 Destroy(gameObject);
 }
 }
